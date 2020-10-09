@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Ken1" language="en" table="ken1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Ken1</label>
+            <language>en</language>
+            <name>ken1</name>
+            <plural>ken1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 19:11:57</sys_created_on>
+            <sys_id>f7c9b77c53b7101071a3ddeeff7b1285</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ken1</sys_name>
+            <sys_package display_value="ken1" source="07a9f37c53b7101071a3ddeeff7b12d0">07a9f37c53b7101071a3ddeeff7b12d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ken1">07a9f37c53b7101071a3ddeeff7b12d0</sys_scope>
+            <sys_update_name>sys_documentation_ken1__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 19:11:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
